@@ -1,0 +1,4 @@
+/target
+.env
+emails.csv
+output.csv
